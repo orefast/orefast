@@ -15,8 +15,8 @@
 5. 零日志保护：采用零日志政策，不会记录任何上网行为。
 6. 多跳：支援多跳，透过多节点中转，加密连接，保护隐私。
 
-[Windows 下载] (https://www.oportalboot.com/downloads/ofaster_win32_x64_v1.2.55_prod.exe) | 
-[Mac Intel 下载] (https://www.oportalboot.com/downloads/ofast_x64_v1.2.55_prod.dmg) | 
-[Mac ARM 下载] (https://www.oportalboot.com/downloads/ofast_x64_v1.2.55_prod.dmg) | 
-[Android APK 下载] (https://www.oportalboot.com/downloads/ofast_x64_v1.2.55_prod.dmg) | 
-[Google Play 商店下载] (https://play.google.com/store/apps/details?id=com.yangfang.proxy_android&hl=gsw) 
+[Windows 下载](https://www.oportalboot.com/downloads/ofaster_win32_x64_v1.2.55_prod.exe) | 
+[Mac Intel 下载](https://www.oportalboot.com/downloads/ofast_x64_v1.2.55_prod.dmg) | 
+[Mac ARM 下载](https://www.oportalboot.com/downloads/ofast_x64_v1.2.55_prod.dmg) | 
+[Android APK 下载](https://www.oportalboot.com/downloads/ofast_x64_v1.2.55_prod.dmg) | 
+[Google Play 商店下载](https://play.google.com/store/apps/details?id=com.yangfang.proxy_android&hl=gsw) 
